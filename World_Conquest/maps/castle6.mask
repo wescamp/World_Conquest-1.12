@@ -1,0 +1,12 @@
+border_size=1
+usage=map
+
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , Ww          , _s          , Ww          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , Ch          , Ch          , Ch          , _s          , _s          , _s          
+_s          , _s          , _s          , Ww          , Ch          , Kh          , Ch          , Ww          , _s          , _s          
+_s          , _s          , _s          , _s          , Ww          , Ch          , Ww          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          

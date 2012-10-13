@@ -1,0 +1,11 @@
+border_size=1
+usage=map
+
+Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          
+Xv          , 1 _off^_usr , _off^_usr   , 2 _off^_usr , _off^_usr   , 3 _off^_usr , _off^_usr   , 4 _off^_usr , _off^_usr   , 5 _off^_usr , _off^_usr   , 6 _off^_usr , _off^_usr   , Xv          
+Xv          , _off^_usr   , Qlf         , _off^_usr   , _off^_usr   , _off^_usr   , Qlf         , _off^_usr   , _off^_usr   , _off^_usr   , Qlf         , _off^_usr   , _off^_usr   , Xv          
+Xv          , _off^_usr   , Qlf         , Uu          , _off^_usr   , _off^_usr   , Qlf         , Uu          , Qlf         , Qlf         , Uu          , Qlf         , Uu          , Xv          
+Xv          , _off^_usr   , Qlf         , Uu          , Qlf         , Xv          , Qlf         , Uu          , Qlf         , Uu          , _off^_usr   , Uu          , _off^_usr   , Xv          
+Xv          , _off^_usr   , Qlf         , Qlf         , Uu          , Qlf         , Qlf         , Uu          , _off^_usr   , Qlf         , Qlf         , Qlf         , Uu          , Xv          
+Xv          , _off^_usr   , _off^_usr   , Uu          , _off^_usr   , _off^_usr   , _off^_usr   , Uu          , _off^_usr   , _off^_usr   , _off^_usr   , Uu          , _off^_usr   , Xv          
+Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          , Xv          

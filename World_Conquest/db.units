@@ -1,0 +1,211 @@
+;drakes;1;Drake Burner
+;drakes;1;Drake Clasher
+;drakes;1;Drake Fighter
+;drakes;1;Drake Glider
+;drakes;1;Naga Fighter
+;drakes;1;Saurian Augur
+;drakes;1;Saurian Skirmisher
+;drakes;2;Drake Arbiter
+;drakes;2;Drake Flare
+;drakes;2;Drake Thrasher
+;drakes;2;Drake Warrior
+;drakes;2;Fire Drake
+;drakes;2;Naga Warrior
+;drakes;2;Saurian Ambusher
+;drakes;2;Saurian Oracle
+;drakes;2;Saurian Soothsayer
+;drakes;2;Sky Drake
+;drakes;3;Drake Blademaster
+;drakes;3;Drake Enforcer
+;drakes;3;Drake Flameheart
+;drakes;3;Drake Warden
+;drakes;3;Hurricane Drake
+;drakes;3;Inferno Drake
+;drakes;3;Naga Myrmidon
+;drakes;3;Saurian Flanker
+;drakes;4;Armageddon Drake
+;dwarves;1;Dwarvish Fighter
+;dwarves;1;Dwarvish Guardsman
+;dwarves;1;Dwarvish Scout
+;dwarves;1;Dwarvish Thunderer
+;dwarves;1;Dwarvish Ulfserker
+;dwarves;1;Gryphon Rider
+;dwarves;2;Dwarvish Berserker
+;dwarves;2;Dwarvish Pathfinder
+;dwarves;2;Dwarvish Runesmith
+;dwarves;2;Dwarvish Stalwart
+;dwarves;2;Dwarvish Steelclad
+;dwarves;2;Dwarvish Thunderguard
+;dwarves;2;Gryphon Master
+;dwarves;3;Dwarvish Dragonguard
+;dwarves;3;Dwarvish Explorer
+;dwarves;3;Dwarvish Lord
+;dwarves;3;Dwarvish Runemaster
+;dwarves;3;Dwarvish Sentinel
+;dwarves;4;Dwarvish Arcanister
+;loyalists;1;Bowman
+;loyalists;1;Cavalryman
+;loyalists;1;Fencer
+;loyalists;1;Heavy Infantryman
+;loyalists;1;Horseman
+;loyalists;1;Mage
+;loyalists;1;Sergeant
+;loyalists;1;Spearman
+;loyalists;2;Dragoon
+;loyalists;2;Duelist
+;loyalists;2;Javelineer
+;loyalists;2;Knight
+;loyalists;2;Lancer
+;loyalists;2;Lieutenant
+;loyalists;2;Longbowman
+;loyalists;2;Pikeman
+;loyalists;2;Red Mage
+;loyalists;2;Shock Trooper
+;loyalists;2;Swordsman
+;loyalists;2;White Mage
+;loyalists;3;Arch Mage
+;loyalists;3;Cavalier
+;loyalists;3;General
+;loyalists;3;Grand Knight
+;loyalists;3;Halberdier
+;loyalists;3;Iron Mauler
+;loyalists;3;Mage of Light
+;loyalists;3;Master at Arms
+;loyalists;3;Master Bowman
+;loyalists;3;Paladin
+;loyalists;3;Royal Guard
+;loyalists;3;Royal Warrior
+;loyalists;3;Silver Mage
+;loyalists;4;Grand Marshal
+;loyalists;4;Great Mage
+;loyalists;5;Elder Mage
+;northeners;0;Goblin Spearman
+;northeners;1;Goblin Impaler
+;northeners;1;Goblin Rouser
+;northeners;1;Orcish Archer
+;northeners;1;Orcish Assassin
+;northeners;1;Orcish Grunt
+;northeners;1;Orcish Leader
+;northeners;1;Troll Whelp
+;northeners;1;Wolf Rider
+;northeners;2;Goblin Knight
+;northeners;2;Goblin Pillager
+;northeners;2;Orcish Crossbowman
+;northeners;2;Orcish Ruler
+;northeners;2;Orcish Slayer
+;northeners;2;Orcish Warrior
+;northeners;2;Troll
+;northeners;2;Troll Hero
+;northeners;2;Troll Rocklobber
+;northeners;2;Troll Shaman
+;northeners;3;Direwolf Rider
+;northeners;3;Great Troll
+;northeners;3;Orcish Slurbow
+;northeners;3;Orcish Sovereign
+;northeners;3;Orcish Warlord
+;northeners;3;Troll Warrior
+;outlaws;0;Peasant
+;outlaws;0;Ruffian
+;outlaws;0;Woodsman
+;outlaws;1;Footpad
+;outlaws;1;Poacher
+;outlaws;1;Thief
+;outlaws;1;Thug
+;outlaws;1;Young Ogre
+;outlaws;2;Bandit
+;outlaws;2;Ogre
+;outlaws;2;Outlaw
+;outlaws;2;Rogue
+;outlaws;2;Trapper
+;outlaws;3;Assassin
+;outlaws;3;Fugitive
+;outlaws;3;Highwayman
+;outlaws;3;Huntsman
+;outlaws;3;Ranger
+;rebels;1;Elvish Archer
+;rebels;1;Elvish Fighter
+;rebels;1;Elvish Scout
+;rebels;1;Elvish Shaman
+;rebels;1;Mermaid Initiate
+;rebels;1;Merman Fighter
+;rebels;1;Merman Hunter
+;rebels;1;Wose
+;rebels;2;Elder Wose
+;rebels;2;Elvish Captain
+;rebels;2;Elvish Druid
+;rebels;2;Elvish Hero
+;rebels;2;Elvish Lord
+;rebels;2;Elvish Marksman
+;rebels;2;Elvish Ranger
+;rebels;2;Elvish Rider
+;rebels;2;Elvish Sorceress
+;rebels;2;Mermaid Enchantress
+;rebels;2;Mermaid Priestess
+;rebels;2;Merman Netcaster
+;rebels;2;Merman Spearman
+;rebels;2;Merman Warrior
+;rebels;3;Ancient Wose
+;rebels;3;Elvish Avenger
+;rebels;3;Elvish Champion
+;rebels;3;Elvish Enchantress
+;rebels;3;Elvish High Lord
+;rebels;3;Elvish Lady
+;rebels;3;Elvish Marshal
+;rebels;3;Elvish Outrider
+;rebels;3;Elvish Sharpshooter
+;rebels;3;Elvish Shyde
+;rebels;3;Mermaid Diviner
+;rebels;3;Mermaid Siren
+;rebels;3;Merman Entangler
+;rebels;3;Merman Hoplite
+;rebels;3;Merman Javelineer
+;rebels;3;Merman Triton
+;rebels;4;Elvish Sylph
+;undead;0;Vampire Bat
+;undead;0;Walking Corpse
+;undead;1;Blood Bat
+;undead;1;Dark Adept
+;undead;1;Ghost
+;undead;1;Ghoul
+;undead;1;Skeleton
+;undead;1;Skeleton Archer
+;undead;1;Soulless
+;undead;2;Bone Shooter
+;undead;2;Chocobone
+;undead;2;Dark Sorcerer
+;undead;2;Deathblade
+;undead;2;Dread Bat
+;undead;2;Necrophage
+;undead;2;Revenant
+;undead;2;Shadow
+;undead;2;Wraith
+;undead;3;Banebow
+;undead;3;Death Knight
+;undead;3;Draug
+;undead;3;Ghast
+;undead;3;Lich
+;undead;3;Necromancer
+;undead;3;Nightgaunt
+;undead;3;Spectre
+;undead;4;Ancient Lich
+;zothers;0;Giant Rat
+;zothers;0;Mudcrawler
+;zothers;1;Boat
+;zothers;1;Fire Guardian
+;zothers;1;Galleon
+;zothers;1;Giant Mudcrawler
+;zothers;1;Giant Scorpion
+;zothers;1;Pirate Galleon
+;zothers;1;Tentacle of the Deep
+;zothers;1;Transport Galleon
+;zothers;1;Wolf
+;zothers;2;Cuttle Fish
+;zothers;2;Great Wolf
+;zothers;2;Gryphon
+;zothers;2;Water Serpent
+;zothers;3;Direwolf
+;zothers;3;Giant Spider
+;zothers;3;Sea Serpent
+;zothers;4;Skeletal Dragon
+;zothers;4;Yeti
+;zothers;5;Fire Dragon

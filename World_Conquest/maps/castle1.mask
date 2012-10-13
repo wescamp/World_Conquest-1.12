@@ -1,0 +1,12 @@
+border_size=1
+usage=map
+
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , Ket         , Ce          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , Ce          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
+_s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          , _s          
